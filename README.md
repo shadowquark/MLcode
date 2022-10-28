@@ -6,6 +6,7 @@ classifiers.py
 * Transformer
 * XGBoost
 * LightGBM
+* AdaBoost
 * (Convolutional) Graph Neural Network
 * fcNN
 * Optuna
